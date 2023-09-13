@@ -1,0 +1,11 @@
+{
+  "name": "lorum-ipsum-text",
+  "version": "1.0.0",
+  "description": "This package will generate the desired number of paragraphs with lorum ipsum text.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shifafarin_plainsurf",
+  "license": "ISC"
+}
